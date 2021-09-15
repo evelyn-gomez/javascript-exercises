@@ -5,7 +5,7 @@ The main purpose of this exercise is to walk you through the process of running 
 In this directory you will find 2 other files:
   1. `helloWorld.js`
   2. `helloWorld.spec.js`
-
+ 
 This setup should be the same for all of the exercises.  The plain javascript file is where you'll write your code, and the `spec` file contains the tests that verify your code is functional.
 
 Let's look at the spec file first:
