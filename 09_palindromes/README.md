@@ -17,3 +17,5 @@ palindromes('tacos') // false
 ```
 
 
+### self-reflection 
+This took alot longer than expected, regarding using regex I did find the solution for using a regex on stackoverflow, conceptually I know what I need to do within a few minutes. Solved most of the problem, had a hard time figuring out how to remove whitespaces and nonAlphabet characters. 
