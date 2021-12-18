@@ -11,8 +11,8 @@ Given an array of objects representing people with a birth and death year, retur
  My current solution was not the best but it worked for me. I review the solution for this on TOP and found that using the .reduce() method would have yieled a cleaner result. I did try a few times using it but couldn't figure out how to make it work for me. 
 
  I am also adding another solution that my mentor went over with me on here 
-```
-Javascript 
+
+```Javascript 
 function findTheOldest2(people) {
   let oldest = people[0];
   let maxAge = getAge(oldest);
